@@ -8,6 +8,10 @@ I am a JEE Aspirant with a strong passion for logical problem-solving and mathem
 - **Core Strengths:** Advanced Mathematics (Number Theory, Permutations & Combinations, Probability, Matrices), Logical Reasoning, Analytical Thinking.
 - **My Mindset:** I have a strong foundation in PCM, which is the baseline for Cryptography and complex algorithms in security.
 
+
+I do not have any prior professional experience or certificates in cybersecurity. However, I have a strong foundation in Mathematics and logical reasoning, as reflected in my JEE Main score (98.4 percentile). I am highly passionate about computers, technology, and securing digital systems. I am eager to learn programming, networking, and cybersecurity from scratch through the rigorous academic environment at IIT Kanpur.
+
+
 ## 🛡️ Cybersecurity Journey (Started Recently)
 *Though my primary focus was intense JEE preparation, I have started exploring practical cybersecurity fundamentals:*
 - 🌐 Learning Network Basics & Linux Commands.
