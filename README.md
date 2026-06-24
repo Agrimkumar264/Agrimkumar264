@@ -19,3 +19,9 @@ I am a JEE Aspirant with a strong passion for logical problem-solving and mathem
 ## 📫 How to reach me
 - Email: jawaharlalrastogi4@gmail.com 
 - Phone/LinkedIn (Optional): 9870951537
+
+
+
+### Practical Research & Artifacts
+* **Vulnerability Documentation:** [Click Here to View My IDOR Vulnerability Report](./IDOR-Vulnerability-Report.md)
+* **Methodology Focus:** Hands-on understanding of OWASP Top 10 vulnerabilities and standard responsible disclosure formats.
