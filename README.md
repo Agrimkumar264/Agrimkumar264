@@ -26,7 +26,14 @@ I am a JEE Aspirant with a strong passion for logical problem-solving and mathem
 * **Vulnerability Documentation:** [Click Here to View My IDOR Vulnerability Report) https://github.com/Agrimkumar264/Agrimkumar264/blob/main/IDOR-Vulnerability-Report%20.md
 * **Methodology Focus:** Hands-on understanding of OWASP Top 10 vulnerabilities and standard responsible disclosure formats.
 
+### Professional Certifications (In Progress)
+* **Google Cybersecurity Professional Certificate (Coursera):** Currently pursuing. Successfully completed Module 1 (Foundations of Cybersecurity), gaining foundational knowledge in security frameworks, threat landscapes, and risk management.
+
 ### Ongoing Training & Platforms
+* **TryHackMe Labs & Training (Completed 4 Rooms):**
+  * *Inside a Computer System* – Mastered core operating system architecture and internal hardware operations.
+  * *Intro to Offensive Security* – Learned the hacker mindset, web application penetration testing, and basic exploitation.
+  * *Intro to Defensive Security* – Studied Blue Teaming basics, digital forensics, incident response, and threat detection.
+  * *Careers in Cyber* – Explored industry roles (Red Team, Blue Team, Security Analyst) to align skills with professional career paths.
 * **Interactive Labs:** Actively learning web security fundamentals via PortSwigger Web Security Academy.
-* **Hands-on Training:** Completed the **"Inside a Computer System"** room on TryHackMe, covering operating system internals and core computer architecture.
-* **CTF Practice:** Solving beginner challenges on PicoCTF / TryHackMe.
+
