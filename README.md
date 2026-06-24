@@ -25,3 +25,8 @@ I am a JEE Aspirant with a strong passion for logical problem-solving and mathem
 ### Practical Research & Artifacts
 * **Vulnerability Documentation:** [Click Here to View My IDOR Vulnerability Report) https://github.com/Agrimkumar264/Agrimkumar264/blob/main/IDOR-Vulnerability-Report%20.md
 * **Methodology Focus:** Hands-on understanding of OWASP Top 10 vulnerabilities and standard responsible disclosure formats.
+
+### Ongoing Training & Platforms
+* **Interactive Labs:** Actively learning web security fundamentals via PortSwigger Web Security Academy.
+* **Hands-on Training:** Completed the **"Inside a Computer System"** room on TryHackMe, covering operating system internals and core computer architecture.
+* **CTF Practice:** Solving beginner challenges on PicoCTF / TryHackMe.
